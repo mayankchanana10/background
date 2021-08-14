@@ -1,0 +1,24 @@
+body{
+background:yellow;
+}
+
+h1{
+color:darkred;
+}
+
+p{
+color:darkblue;
+}
+
+.top h1{
+font-size:48px;}
+.top p{
+font-size:42px;}
+
+.middle h1{
+font-size:32px;
+}
+
+.middle p{
+font-size:28px;
+}

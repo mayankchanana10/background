@@ -1,0 +1,16 @@
+body{
+background:orange;
+}
+
+h1{
+font-size:12px;
+background:green;
+color:black;
+}
+
+h2{
+font-size:72px;
+background:black;
+color;white;
+border:9px solid darkred;
+}

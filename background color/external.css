@@ -1,0 +1,16 @@
+body{
+background-color:red;
+}
+
+h1{
+color:blue;
+font-size:64px;
+}
+
+
+p{
+color:green;
+background:orange;
+border:7px solid grey;
+}
+ 
